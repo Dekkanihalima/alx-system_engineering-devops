@@ -1,1 +1,1 @@
-./0-simply_match_school.rb Grace Hopper | cat -e
+0x06. Regular expression
